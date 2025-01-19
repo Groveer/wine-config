@@ -1,10 +1,10 @@
 REGEDIT4
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]
-"Lucida Sans Unicode"="MapleMono-SC-NF-Regular.ttf"
-"Microsoft Sans Serif"="MapleMono-SC-NF-Regular.ttf"
-"Tahoma"="MapleMono-SC-NF-Regular.ttf"
-"Tahoma Bold"="MapleMono-SC-NF-Regular.ttf"
-"SimSun"="MapleMono-SC-NF-Regular.ttf"
-"Arial"="MapleMono-SC-NF-Regular.ttf"
-"Arial Black"="MapleMono-SC-NF-Regular.ttf"
+"Lucida Sans Unicode"="MapleMono-NF-CN-Regular.ttf"
+"Microsoft Sans Serif"="MapleMono-NF-CN-Regular.ttf"
+"Tahoma"="MapleMono-NF-CN-Regular.ttf"
+"Tahoma Bold"="MapleMono-NF-CN-Regular.ttf"
+"SimSun"="MapleMono-NF-CN-Regular.ttf"
+"Arial"="MapleMono-NF-CN-Regular.ttf"
+"Arial Black"="MapleMono-NF-CN-Regular.ttf"
